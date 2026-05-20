@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The screen shows Sana AI’s interface with a left sidebar (Chat, Workflows, Search, Meetings, More; Folders section with Demo folder) and a main content area. A modal dialog (“Help us improve”) overlays the center, offering “Don’t share” (white) and “Share analytics” (dark) buttons, with a close (×) icon. The top bar has “All” dropdown, “Invite,” and “Help” buttons. The bottom left shows usage stats (“10 meetings and 20 messages left”) and an “Upgrade” button. Colors: light gray background, white modal, dark text, black/white buttons.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139958,
+  "id": "20260519053232b62a7db6b7f64cde",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260519053232b62a7db6b7f64cde",
+  "usage": {
+    "completion_tokens": 134,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 23
+    },
+    "total_tokens": 3407
+  }
+}

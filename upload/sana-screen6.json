@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The screen features a clean, two - section layout. On the left, a white panel displays “Welcome to Sana Agents” with a subtitle, two interactive options (“Create a new workspace” with a “Create” button, “Not seeing your workspace?” with a “Log out” button), and a signed - in email. On the right, a dark - themed laptop mockup shows a Sana interface with a bright green task card, navigation, and chat elements. The color scheme is minimal: white for the left panel, dark gray/black for the mockup, and green for highlights. The footer has a dark gray bar with “Sana AI” and “curated by Mobbin” logos. Interactions focus on workspace creation and account management.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139928,
+  "id": "202605190532038c489e25745c4832",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202605190532038c489e25745c4832",
+  "usage": {
+    "completion_tokens": 155,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 23
+    },
+    "total_tokens": 3428
+  }
+}

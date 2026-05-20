@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "This is Sana AI’s welcome screen with a clean, two - column layout. The left side has a white background with a header (Sana logo, navigation: Overview, Pricing, Privacy/terms, FAQ), a welcome message, a sign - in/sign - up prompt, a Google sign - in button, an email input field, a “Continue anyway” button, and legal text. The right side shows a dark - themed laptop mockup displaying the Sana interface. Colors are minimal: white, dark gray, black, and a bright yellow highlight in the mockup. Interactions include clicking navigation links, the Google button, email input, and the “Continue anyway” button. The footer has the Sana logo and “curated by Mobbin” text.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139889,
+  "id": "202605190531215c80472136f94af1",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202605190531215c80472136f94af1",
+  "usage": {
+    "completion_tokens": 159,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 13
+    },
+    "total_tokens": 3432
+  }
+}

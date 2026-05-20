@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The screen displays a two - section layout. On the left, a verification page with a white background has a header showing the Sana AI logo and navigation links (Overview, Pricing, etc.). The main content includes a “We sent you a code” heading, a “Please wait” subtext, an 8 - digit code input field, a “Resend code” link, and two buttons: a dark “Back” and a light “Continue”. Below, there’s a legal text block. On the right, a dark - themed laptop screenshot shows the Sana AI interface with a bright yellow task card. The footer has the Sana AI logo and “curated by Mobbin”. Colors are minimal: white, dark gray, black, and a pop of yellow. Interactions focus on code entry and navigation.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139904,
+  "id": "202605190531376781bc055fe749bf",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202605190531376781bc055fe749bf",
+  "usage": {
+    "completion_tokens": 170,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 4
+    },
+    "total_tokens": 3443
+  }
+}

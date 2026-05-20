@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The screen features a **split layout**: a white left panel with text/controls and a dark right panel showing a laptop mockup.  \n\n### Left Panel (White Background):  \n- Header: \"Welcome to Sana Agents\" + \"Join or create a workspace\" (gray subtitle).  \n- Two sections:  \n  1. \"Create a new workspace\" (button with loading spinner, gray text: \"Set up from scratch...\").  \n  2. \"Not seeing your workspace?\" (link: \"Try logging in with a different email\"; \"Log out\" button).  \n- Footer: \"Signed in as alexsmith@content-mobbin.com\" (gray text).  \n\n### Right Panel (Dark Mockup):  \n- Laptop displaying a dark interface with a bright yellow task card (\"Update Salesforce opportunity...\") and other UI elements (chat, tasks, integrations).  \n\n### Colors:  \n- Left: White background, black text, gray accents.  \n- Right: Dark (black/gray) mockup, bright yellow task card.  \n- Footer: Dark gray with \"Sana AI\" (white) and \"curated by Mobbin\" (white).  \n\n### Interactions:  \n- Buttons/links for workspace creation, login, logout.  \n- Loading spinner indicates an active process.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139940,
+  "id": "20260519053208755682716ea3466e",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260519053208755682716ea3466e",
+  "usage": {
+    "completion_tokens": 269,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 6
+    },
+    "total_tokens": 3542
+  }
+}

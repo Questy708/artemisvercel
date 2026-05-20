@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The screen displays a modal popup titled \"Upgrade your workspace for unlimited value\" with a clean, white background. At the top, a toggle (green, enabled) highlights an annual plan saving €60/user/year. Two pricing cards are side-by-side: **Team** (€30/month, €35/month crossed out, billed annually) with a \"Select team\" button, and **Enterprise** (custom pricing) with a \"Schedule a meeting\" button. Each card lists features (checkmarks, e.g., unlimited docs, LLM models, priority support). A close (×) button is top-right. The background is grayed-out, showing a sidebar (folders, settings) and top nav (Invite, Help). Colors: white modal, dark gray buttons, green toggle, black text. Interactions: toggle, button clicks, close modal. Footer notes security compliance.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139952,
+  "id": "202605190532204a0443f86dc74004",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202605190532204a0443f86dc74004",
+  "usage": {
+    "completion_tokens": 179,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 6
+    },
+    "total_tokens": 3452
+  }
+}

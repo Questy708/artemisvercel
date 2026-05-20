@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The screen is a Sana AI login page with a clean, two-column layout. Left: white background with a logo, navigation (Overview, Pricing, etc.), a \"Welcome to Sana\" headline, subhead \"Your AI agent for work,\" sign-in prompt, a Google sign-in button (\"Lanjutkan dengan Google\"), an email input field (pre-filled: alexsmith@content-mobbin.com), a dark \"Continue\" button, and legal text. Right: a dark-themed laptop mockup showing the Sana interface (bright yellow task card, dark UI elements). Colors: white (background), dark gray/black (buttons, footer), bright yellow (task card), gray (text). Interactions: clicking the Google button, entering email, tapping Continue. Footer: \"Sana AI\" logo and \"curated by Mobbin\" text.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139896,
+  "id": "202605190531299ef7aa57666f4106",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202605190531299ef7aa57666f4106",
+  "usage": {
+    "completion_tokens": 178,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 6
+    },
+    "total_tokens": 3451
+  }
+}

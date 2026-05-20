@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The screen is a Sana AI dashboard with a left sidebar and main content area. The sidebar includes a logo, navigation (Chat, Workflows, Search, Meetings, More), a \"Folders\" section (Demo folder, View all), and a usage prompt (\"10 meetings and 20 messages left...\") with an \"Upgrade\" button. The main area has a top bar with \"All\" (dropdown), \"Invite,\" and \"Help\" buttons. Below, a search bar (\"What would you like to do?\") is flanked by \"Create\" and \"Sources\" buttons, with a \"Default\" toggle. A list of AI-powered tasks (e.g., \"Improve my doc in Google Docs\") appears, plus a \"Connect your apps\" link. The color scheme is light (white/gray) with dark accents (black buttons, text). The bottom footer shows \"Sana AI\" and \"curated by Mobbin.\"",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1779139965,
+  "id": "20260519053238066b57c4797547dc",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260519053238066b57c4797547dc",
+  "usage": {
+    "completion_tokens": 195,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3273,
+    "prompt_tokens_details": {
+      "cached_tokens": 6
+    },
+    "total_tokens": 3468
+  }
+}
